@@ -22,12 +22,20 @@ This project is dedicated to curating, organizing, and sharing the latest resear
 - **Paper**:[Mamba: Linear-Time Sequence Modeling with Selective State Spaces](https://arxiv.org/ftp/arxiv/papers/2312/2312.00752.pdf)
 - **year**:2023/12
 - **summary/reason to read**: potential archetecture to replace transformers
-
+# Surveys
 # Pretrain Method
 ## system
 ### DeepSpeed ZeRO
 - **Paper**:[ZeRO: Memory Optimizations Toward Training Trillion Parameter Models](https://arxiv.org/pdf/1910.02054.pdf)
 - **year**:2019/10
 - **summary/reason to read**: commonly used pretrain framework
-
-
+# MOE
+# Instruction Finetune
+# Prompt Engineer
+# PEFT
+# Extent Length
+# RLHF
+# MultiModa
+# Agent
+# RAG
+# Domain Usage
