@@ -19,3 +19,11 @@ This project is dedicated to curating, organizing, and sharing the latest resear
 - **year**:2023/12
 - **summary/reason to read**: potential archetecture to replace transformers
 
+# Pretrain Method
+## system
+### DeepSpeed ZeRO
+- **Paper**:[ZeRO: Memory Optimizations Toward Training Trillion Parameter Models](https://arxiv.org/pdf/1910.02054.pdf)
+- **year**:2019/10
+- **summary/reason to read**: commonly used pretrain framework
+
+
