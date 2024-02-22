@@ -14,5 +14,8 @@ This project is dedicated to curating, organizing, and sharing the latest resear
 - **Paper**:[https://arxiv.org/pdf/2307.09288.pdf](https://arxiv.org/pdf/2307.09288.pdf)
 - **year**:2023/07
 - **summary/reason to read**: most widely used opensource llms now
-
+## Mamba
+- **Paper**:[Mamba: Linear-Time Sequence Modeling with Selective State Spaces](https://arxiv.org/ftp/arxiv/papers/2312/2312.00752.pdf)
+- **year**:2023/12
+- **summary/reason to read**: potential archetecture to replace transformers
 
