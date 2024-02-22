@@ -4,5 +4,5 @@ This project is dedicated to curating, organizing, and sharing the latest resear
 # Typical LLMs
 ## Instruct GPT
 **Paper**:Training language models to follow instructions with human feedback
-[url](https://arxiv.org/pdf/2203.02155.pdf)https://arxiv.org/pdf/2203.02155.pdf)
+**Link**: (https://arxiv.org/pdf/2203.02155.pdf)https://arxiv.org/pdf/2203.02155.pdf)
 ## llama
