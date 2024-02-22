@@ -4,4 +4,9 @@ This project is dedicated to curating, organizing, and sharing the latest resear
 # Typical LLMs
 ## Instruct GPT
 **Paper**:[Training language models to follow instructions with human feedback](https://arxiv.org/pdf/2203.02155.pdf)
+**year**:2022
+**summary/reason to read**: must-read paper from openai
 ## llama
+**Paper**:[LLaMA: Open and Efficient Foundation Language Models](https://arxiv.org/pdf/2302.13971.pdf)
+**year**:2023
+**summary/reason to read**: most widely used opensource llms now
