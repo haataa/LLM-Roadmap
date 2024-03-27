@@ -4,6 +4,9 @@ This project is dedicated to curating, organizing, and sharing the latest resear
 # Contents
 - [Typical LLMs](#Typical-LLMs)
 - [Pretrain Method](#Pretrain-Method)
+- [Instruction Finetune](#Instruction Finetune)
+- [Prompt Engineer](#Prompt Engineer)
+
 
 # Typical LLMs
 ## Instruct GPT
