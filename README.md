@@ -34,6 +34,9 @@ This project is dedicated to curating, organizing, and sharing the latest resear
 - **summary/reason to read**: commonly used pretrain framework
 # MOE
 # Instruction Finetune
+- **Paper**:[Scaling Instruction-Finetuned Language Models](https://arxiv.org/pdf/2203.02155.pdf)
+- **year**:2022/03
+- **summary/reason to read**: 最早讲instruct finetune的论文之一
 # Prompt Engineer
 # PEFT
 # Extent Length
