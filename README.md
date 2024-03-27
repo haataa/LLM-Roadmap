@@ -6,6 +6,8 @@ This project is dedicated to curating, organizing, and sharing the latest resear
 - [Pretrain Method](#Pretrain-Method)
 - [Instruction Finetune](#Instruction-Finetune)
 - [Prompt Engineer](#Prompt-Engineer)
+- [Extent Length](#Extent-Length)
+
 
 
 # Typical LLMs
