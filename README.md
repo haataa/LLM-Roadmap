@@ -40,6 +40,9 @@ This project is dedicated to curating, organizing, and sharing the latest resear
 # Prompt Engineer
 # PEFT
 # Extent Length
+## Position Interpolation
+## Attention Based
+## Fine-tuning based
 # RLHF
 # MultiModa
 # Agent
