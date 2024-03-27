@@ -43,6 +43,9 @@ This project is dedicated to curating, organizing, and sharing the latest resear
 # PEFT
 # Extent Length
 ## Position Interpolation
+- **Paper**:[EXTENDING CONTEXT WINDOW OF LARGE LANGUAGE MODELS VIA POSITION INTERPOLATION](https://arxiv.org/pdf/2306.15595.pdf)
+- **year**:2023/06
+- **summary/reason to read**: 线性外插的方法拓展长度
 ## Attention Based
 ## Fine-tuning based
 # RLHF
