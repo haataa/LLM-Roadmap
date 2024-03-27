@@ -49,7 +49,7 @@ This project is dedicated to curating, organizing, and sharing the latest resear
 ## Attention Based
 - **Paper**:[LM-INFINITE: SIMPLE ON-THE-FLY LENGTH GENERALIZATION FOR LARGE LANGUAGE MODELS](https://arxiv.org/pdf/2308.16137.pdf)
 - **year**:2023/08
-- **summary/reason to read**:Lambda-shaped 注意力掩码和距离限制
+- **summary/reason to read**:[Lambda-shaped 注意力掩码和距离限制](https://www.xiaohongshu.com/explore/64fe8cb7000000001e021ec5)
 ## Fine-tuning based
 # RLHF
 # MultiModa
