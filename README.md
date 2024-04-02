@@ -6,6 +6,7 @@ This project is dedicated to curating, organizing, and sharing the latest resear
 - [Pretrain Method](#Pretrain-Method)
 - [Instruction Finetune](#Instruction-Finetune)
 - [Prompt Engineer](#Prompt-Engineer)
+- [Compression](#Compression)
 - [Extent Length](#Extent-Length)
 
 
@@ -54,9 +55,10 @@ This project is dedicated to curating, organizing, and sharing the latest resear
 ## Fine-tuning based
 # Compression
 ## Pruning
+### SLICEGPT
 - **Paper**:[SLICEGPT: COMPRESS LARGE LANGUAGE MODELS BY DELETING ROWS AND COLUMNS](https://arxiv.org/pdf/2401.15024.pdf)
 - **year**:2024/01
-- **summary/reason to read**:[SliceGPT方法的核心在于通过删除大型语言模型中的行和列来实现模型的压缩，同时保持或仅轻微降低模型的性能。](https://www.xiaohongshu.com/explore/65ba158a0000000008020723)
+- **summary/reason to read**:[通过删除大型语言模型中的行和列来实现模型的压缩](https://www.xiaohongshu.com/explore/65ba158a0000000008020723)
 ## Quantization
 # MultiModa
 # Agent
