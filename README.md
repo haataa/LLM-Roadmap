@@ -59,6 +59,11 @@ This project is dedicated to curating, organizing, and sharing the latest resear
 - **Paper**:[SLICEGPT: COMPRESS LARGE LANGUAGE MODELS BY DELETING ROWS AND COLUMNS](https://arxiv.org/pdf/2401.15024.pdf)
 - **year**:2024/01
 - **summary/reason to read**:[通过删除大型语言模型中的行和列来实现模型的压缩](https://www.xiaohongshu.com/explore/65ba158a0000000008020723)
+### ShortGPT
+- **Paper**:[ShortGPT: Layers in Large Language Models are More Redundant Than You Expect](https://arxiv.org/pdf/2403.03853.pdf)
+- **year**:2024/03
+- **summary/reason to read**:[LLMs中的许多层存在高度相似性根据BI分数直接删除冗余层](https://www.xiaohongshu.com/explore/660a6784000000001a0109d8)
+### The Unreasonable Ineffectiveness of the Deeper Layers
 ## Quantization
 # MultiModa
 # Agent
