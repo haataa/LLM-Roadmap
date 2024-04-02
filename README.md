@@ -39,6 +39,7 @@ This project is dedicated to curating, organizing, and sharing the latest resear
 - **Paper**:[Scaling Instruction-Finetuned Language Models](https://arxiv.org/pdf/2203.02155.pdf)
 - **year**:2022/03
 - **summary/reason to read**: 最早讲instruct finetune的论文之一
+# RLHF
 # Prompt Engineer
 # PEFT
 # Extent Length
@@ -51,7 +52,12 @@ This project is dedicated to curating, organizing, and sharing the latest resear
 - **year**:2023/08
 - **summary/reason to read**:[Lambda-shaped 注意力掩码和距离限制](https://www.xiaohongshu.com/explore/64fe8cb7000000001e021ec5)
 ## Fine-tuning based
-# RLHF
+# Compression
+## Pruning
+- **Paper**:[SLICEGPT: COMPRESS LARGE LANGUAGE MODELS BY DELETING ROWS AND COLUMNS](https://arxiv.org/pdf/2401.15024.pdf)
+- **year**:2024/01
+- **summary/reason to read**:[SliceGPT方法的核心在于通过删除大型语言模型中的行和列来实现模型的压缩，同时保持或仅轻微降低模型的性能。](https://www.xiaohongshu.com/explore/65ba158a0000000008020723)
+## Quantization
 # MultiModa
 # Agent
 # RAG
