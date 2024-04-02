@@ -28,6 +28,10 @@ This project is dedicated to curating, organizing, and sharing the latest resear
 - **Paper**:[Mamba: Linear-Time Sequence Modeling with Selective State Spaces](https://arxiv.org/ftp/arxiv/papers/2312/2312.00752.pdf)
 - **year**:2023/12
 - **summary/reason to read**: potential archetecture to replace transformers
+## Jamba
+- **Paper**:[Jamba:A Hybrid Transformer-Mamba Language Model](https://arxiv.org/pdf/2403.19887.pdf)
+- **year**:2024/03
+- **summary/reason to read**: [混合了Transformer和Mamba层以及MoE组件的混合框架LLM]
 # Surveys
 # Pretrain Method
 ## system
