@@ -64,6 +64,9 @@ This project is dedicated to curating, organizing, and sharing the latest resear
 - **year**:2024/03
 - **summary/reason to read**:[LLMs中的许多层存在高度相似性根据BI分数直接删除冗余层](https://www.xiaohongshu.com/explore/660a6784000000001a0109d8)
 ### The Unreasonable Ineffectiveness of the Deeper Layers
+- **Paper**:[The Unreasonable Ineffectiveness of the Deeper Layers](https://arxiv.org/pdf/2403.17887.pdf)
+- **year**:2024/03
+- **summary/reason to read**:[计算不同层之间的相似性来剪枝并通过微调来修复性能损失](https://www.xiaohongshu.com/explore/660a6784000000001a0109d8)
 ## Quantization
 # MultiModa
 # Agent
