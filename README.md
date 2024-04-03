@@ -6,6 +6,7 @@ This project is dedicated to curating, organizing, and sharing the latest resear
 - [Pretrain Method](#Pretrain-Method)
 - [Instruction Finetune](#Instruction-Finetune)
 - [Prompt Engineer](#Prompt-Engineer)
+- [PEFT](#PEFT)
 - [Compression](#Compression)
 - [Extent Length](#Extent-Length)
 
@@ -31,7 +32,7 @@ This project is dedicated to curating, organizing, and sharing the latest resear
 ## Jamba
 - **Paper**:[Jamba:A Hybrid Transformer-Mamba Language Model](https://arxiv.org/pdf/2403.19887.pdf)
 - **year**:2024/03
-- **summary/reason to read**: [混合了Transformer和Mamba层以及MoE组件的混合框架LLM]
+- **summary/reason to read**: [混合了Transformer和Mamba层以及MoE组件的混合框架LLM](https://www.xiaohongshu.com/explore/660baf16000000001a00fa86)
 # Surveys
 # Pretrain Method
 ## system
@@ -47,6 +48,18 @@ This project is dedicated to curating, organizing, and sharing the latest resear
 # RLHF
 # Prompt Engineer
 # PEFT
+## Lora
+- **Paper**:[LORA: LOW-RANK ADAPTATION OF LARGE LANGUAGE MODEL](https://arxiv.org/pdf/2106.09685.pdf)
+- **year**:2021/06
+- **summary/reason to read**:目前最常用的PEFT方法
+## Towards a Unified View of Parameter-Efficient Transfer Learning
+- **Paper**:[Towards a Unified View of Parameter-Efficient Transfer Learning](https://arxiv.org/pdf/2110.04366.pdf)
+- **year**:2021/10
+- **summary/reason to read**:用统一的视角分析了所有PEFT方法
+## Lora+
+- **Paper**:[LoRA+: Efficient Low Rank Adaptation of Large Models](https://arxiv.org/pdf/2402.12354.pdf)
+- **year**:2024/02
+- **summary/reason to read**:[给LoRA的两个矩阵分配不同的学习率，LoRA的效果还能进一步提升](https://kexue.fm/archives/10001)
 # Extent Length
 ## Position Interpolation
 - **Paper**:[EXTENDING CONTEXT WINDOW OF LARGE LANGUAGE MODELS VIA POSITION INTERPOLATION](https://arxiv.org/pdf/2306.15595.pdf)
