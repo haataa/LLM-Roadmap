@@ -49,7 +49,7 @@ This project is dedicated to curating, organizing, and sharing the latest resear
 # Prompt Engineer
 # PEFT
 ## Lora
-- **Paper**:[LORA: LOW-RANK ADAPTATION OF LARGE LANGUAGE MODEL](https://arxiv.org/pdf/2106.09685.pdf)
+- **Paper**:[LORA: LOW-RANK ADAPTATION OF LARGE LANGUAGE MODEL](https://arxiv.org/pdf/2106.09685.pdf)
 - **year**:2021/06
 - **summary/reason to read**:目前最常用的PEFT方法
 ## Towards a Unified View of Parameter-Efficient Transfer Learning
