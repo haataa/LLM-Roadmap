@@ -72,6 +72,15 @@ This project is dedicated to curating, organizing, and sharing the latest resear
 - **year**:2024/03
 - **summary/reason to read**:[计算不同层之间的相似性来剪枝并通过微调来修复性能损失](https://www.xiaohongshu.com/explore/660a6784000000001a0109d8)
 ## Quantization
+### QLORA
+- **Paper**:[QLORA: Efficient Finetuning of Quantized LLMs](https://arxiv.org/pdf/2305.14314.pdf)
+- **year**:2023/05
+- - **summary/reason to read**::通过一个冻结的4位量化的预训练语言模型反向传播梯度进行Lora训练
+### QA-LORA
+ - **Paper**:[QA-LORA: QUANTIZATION-AWARE LOW-RANK ADAPTATION OF LARGE LANGUAGE MODELS](https://arxiv.org/pdf/2309.14717.pdf)
+ - **year**:2023/09
+ - **summary/reason to read**:[通过组操作增加低位量化的自由度同时减少适应的自由度实现量化感知的Lora训练](https://www.xiaohongshu.com/explore/652e4fbb000000001e022e99)
+ 
 # MultiModa
 # Agent
 # RAG
