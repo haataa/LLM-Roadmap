@@ -70,6 +70,9 @@ This project is dedicated to curating, organizing, and sharing the latest resear
 - **year**:2023/08
 - **summary/reason to read**:[Lambda-shaped 注意力掩码和距离限制](https://www.xiaohongshu.com/explore/64fe8cb7000000001e021ec5)
 ## Fine-tuning based
+- **Paper**:[LONGLORA: EFFICIENT FINE-TUNING OF LONGCONTEXT LARGE LANGUAGE MODELS](https://arxiv.org/pdf/2309.12307.pdf)
+- **year**:2023/09
+- **summary/reason to read**:[使用Shift Short Attention技术在保持原始模型架构不变的情况下扩展模型的上下文窗口](https://www.xiaohongshu.com/explore/6511556f000000001d016c8c)
 # Compression
 ## Pruning
 ### SLICEGPT
