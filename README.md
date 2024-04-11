@@ -50,6 +50,10 @@ This project is dedicated to curating, organizing, and sharing the latest resear
 - **Paper**:[Direct Preference Optimization: Your Language Model is Secretly a Reward Model](https://arxiv.org/pdf/2305.18290.pdf)
 - **year**:2023/05
 - **summary/reason to read**: [使用变量变换将奖励函数上的损失函数转化为直接基于策略的损失函数从而无需训练reward function](https://www.xiaohongshu.com/explore/65782f9a0000000016007f93)
+## KTO
+- **Paper**:[KTO: Model Alignment as Prospect Theoretic Optimization](https://arxiv.org/pdf/2402.01306.pdf)
+- **year**:2024/02
+- **summary/reason to read**: [使用相对偏好数据最大化LLM生成效用来对齐模型](https://www.xiaohongshu.com/explore/6583ea850000000038022997)
 # Prompt Engineer
 # PEFT
 ## Lora
