@@ -68,6 +68,14 @@ This project is dedicated to curating, organizing, and sharing the latest resear
 - **Paper**:[LoRA+: Efficient Low Rank Adaptation of Large Models](https://arxiv.org/pdf/2402.12354.pdf)
 - **year**:2024/02
 - **summary/reason to read**:[给LoRA的两个矩阵分配不同的学习率，LoRA的效果还能进一步提升](https://kexue.fm/archives/10001)
+## Dora
+- **Paper**:[DoRA: Weight-Decomposed Low-Rank Adaptation](https://arxiv.org/pdf/2402.09353.pdf)
+- **year**:2024/02
+- **summary/reason to read**:[将预训练权重分解为振幅和方向两部分进行微调](https://www.xiaohongshu.com/explore/65d30eb8000000000102a1f8)
+## ReFT
+- **Paper**:[ReFT: Representation Finetuning for Language Models](https://arxiv.org/pdf/2404.03592.pdf)
+- **year**:2024/04
+- **summary/reason to read**:[修改隐藏层表征来进行微调参数效率提高10倍](https://www.xiaohongshu.com/explore/66164f2c000000001a0145c1)
 # Extent Length
 ## Position Interpolation
 - **Paper**:[EXTENDING CONTEXT WINDOW OF LARGE LANGUAGE MODELS VIA POSITION INTERPOLATION](https://arxiv.org/pdf/2306.15595.pdf)
