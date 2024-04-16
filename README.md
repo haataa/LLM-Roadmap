@@ -115,7 +115,13 @@ This project is dedicated to curating, organizing, and sharing the latest resear
  - **Paper**:[QA-LORA: QUANTIZATION-AWARE LOW-RANK ADAPTATION OF LARGE LANGUAGE MODELS](https://arxiv.org/pdf/2309.14717.pdf)
  - **year**:2023/09
  - **summary/reason to read**:[通过组操作增加低位量化的自由度同时减少适应的自由度实现量化感知的Lora训练](https://www.xiaohongshu.com/explore/652e4fbb000000001e022e99)
- 
+ ### Post Training Quantization(PTQ)
+ #### GPTQ
+ - **Paper**:[GPTQ: Accurate Post-Training Quantization for Generative Pre-trained Transformers](https://arxiv.org/pdf/2210.17323.pdf)
+ - **year**:2022/10
+ #### AWQ
+ - **Paper**:[AWQ: Activation-aware Weight Quantization for LLM Compression and Acceleration](https://arxiv.org/pdf/2306.00978.pdf)
+ - **year**:2023/10
 # MultiModa
 # Agent
 # RAG
