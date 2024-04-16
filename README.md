@@ -104,10 +104,12 @@ This project is dedicated to curating, organizing, and sharing the latest resear
 - **year**:2024/03
 - **summary/reason to read**:[计算不同层之间的相似性来剪枝并通过微调来修复性能损失](https://www.xiaohongshu.com/explore/660a6784000000001a0109d8)
 ## Quantization
+### 基础知识
+- **blog**:[目前针对大模型进行量化的方法有哪些？](https://www.zhihu.com/question/627484732/answer/3261671478)
 ### QLORA
 - **Paper**:[QLORA: Efficient Finetuning of Quantized LLMs](https://arxiv.org/pdf/2305.14314.pdf)
 - **year**:2023/05
-- - **summary/reason to read**::通过一个冻结的4位量化的预训练语言模型反向传播梯度进行Lora训练
+- **summary/reason to read**::通过一个冻结的4位量化的预训练语言模型反向传播梯度进行Lora训练
 ### QA-LORA
  - **Paper**:[QA-LORA: QUANTIZATION-AWARE LOW-RANK ADAPTATION OF LARGE LANGUAGE MODELS](https://arxiv.org/pdf/2309.14717.pdf)
  - **year**:2023/09
