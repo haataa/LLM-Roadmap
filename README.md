@@ -106,11 +106,12 @@ This project is dedicated to curating, organizing, and sharing the latest resear
 ## Quantization
 ### 基础知识
 - **blog**:[目前针对大模型进行量化的方法有哪些？](https://www.zhihu.com/question/627484732/answer/3261671478)
-### QLORA
+### Quantization-Aware Fine-tuning(QAF)
+#### QLORA
 - **Paper**:[QLORA: Efficient Finetuning of Quantized LLMs](https://arxiv.org/pdf/2305.14314.pdf)
 - **year**:2023/05
 - **summary/reason to read**::通过一个冻结的4位量化的预训练语言模型反向传播梯度进行Lora训练
-### QA-LORA
+#### QA-LORA
  - **Paper**:[QA-LORA: QUANTIZATION-AWARE LOW-RANK ADAPTATION OF LARGE LANGUAGE MODELS](https://arxiv.org/pdf/2309.14717.pdf)
  - **year**:2023/09
  - **summary/reason to read**:[通过组操作增加低位量化的自由度同时减少适应的自由度实现量化感知的Lora训练](https://www.xiaohongshu.com/explore/652e4fbb000000001e022e99)
