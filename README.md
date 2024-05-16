@@ -54,6 +54,10 @@ This project is dedicated to curating, organizing, and sharing the latest resear
 - **Paper**:[KTO: Model Alignment as Prospect Theoretic Optimization](https://arxiv.org/pdf/2402.01306.pdf)
 - **year**:2024/02
 - **summary/reason to read**: [使用相对偏好数据最大化LLM生成效用来对齐模型](https://www.xiaohongshu.com/explore/6583ea850000000038022997)
+## SPPO
+- **Paper**:[Self-Play Preference Optimization for Language Model Alignment](https://arxiv.org/pdf/2405.00675)
+- **year**:2024/05
+- **summary/reason to read**: [使用博弈论对LLM进行强化学习](https://www.xiaohongshu.com/explore/6639ebe3000000001e033ea1)
 # Prompt Engineer
 # PEFT
 ## Lora
