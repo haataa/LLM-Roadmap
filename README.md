@@ -132,6 +132,9 @@ This project is dedicated to curating, organizing, and sharing the latest resear
 # MultiModa
 # Agent
 ## surveys
+### AI AGENT Cognitive Architectures
+- **Paper**:[Cognitive Architectures for Language Agents](https://arxiv.org/pdf/2309.02427)
+ - **year**:2023/09
 ### AI AGENT ARCHITECTURES
 - **Paper**:[THE LANDSCAPE OF EMERGING AI AGENT ARCHITECTURES FOR REASONING, PLANNING, AND TOOL CALLING: A SURVEY](https://arxiv.org/pdf/2404.11584)
  - **year**:2024/02
