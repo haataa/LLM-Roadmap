@@ -33,6 +33,9 @@ This project is dedicated to curating, organizing, and sharing the latest resear
 - **Paper**:[Jamba:A Hybrid Transformer-Mamba Language Model](https://arxiv.org/pdf/2403.19887.pdf)
 - **year**:2024/03
 - **summary/reason to read**: [混合了Transformer和Mamba层以及MoE组件的混合框架LLM](https://www.xiaohongshu.com/explore/660baf16000000001a00fa86)
+## DeepSeek-Coder-v2
+- **Paper**:[DeepSeek-Coder-V2: Breaking the Barrier of Closed-Source Models in Code Intelligence](https://arxiv.org/pdf/2406.11931)
+- **year**:2024/06
 # Surveys
 # Pretrain Method
 ## system
