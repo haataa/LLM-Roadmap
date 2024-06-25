@@ -131,7 +131,11 @@ This project is dedicated to curating, organizing, and sharing the latest resear
  - **year**:2023/10
 # MultiModa
 # Agent
-## multi agent
+## surveys
+### AI AGENT ARCHITECTURES
+- **Paper**:[THE LANDSCAPE OF EMERGING AI AGENT ARCHITECTURES FOR REASONING, PLANNING, AND TOOL CALLING: A SURVEY](https://arxiv.org/pdf/2404.11584)
+ - **year**:2024/02
+### Multi-Agents
 - **Paper**:[Large Language Model based Multi-Agents: A Survey of Progress and Challenges](https://arxiv.org/pdf/2402.01680v1)
  - **year**:2024/02
 # RAG
