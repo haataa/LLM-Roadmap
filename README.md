@@ -131,5 +131,8 @@ This project is dedicated to curating, organizing, and sharing the latest resear
  - **year**:2023/10
 # MultiModa
 # Agent
+## multi agent
+- **Paper**:[Large Language Model based Multi-Agents: A Survey of Progress and Challenges](https://arxiv.org/pdf/2402.01680v1)
+ - **year**:2024/02
 # RAG
 # Domain Usage
