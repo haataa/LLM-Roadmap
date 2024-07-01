@@ -142,6 +142,9 @@ This project is dedicated to curating, organizing, and sharing the latest resear
 - **Paper**:[Large Language Model based Multi-Agents: A Survey of Progress and Challenges](https://arxiv.org/pdf/2402.01680v1)
  - **year**:2024/02
 # RAG
+## LongLLM vs RAG
+- **Paper**:[Can Long-Context Language Models Subsume Retrieval, RAG, SQL, and More?](https://arxiv.org/pdf/2406.13121)
+- **year**:2024/06
 ## LongRAG
 - **Paper**:[LongRAG: Enhancing Retrieval-Augmented Generation with Long-context LLMs](https://arxiv.org/pdf/2406.15319)
 - **year**:2024/06
