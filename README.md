@@ -9,7 +9,7 @@ This project is dedicated to curating, organizing, and sharing the latest resear
 - [PEFT](#PEFT)
 - [Compression](#Compression)
 - [Extent Length](#Extent-Length)
-
+- [RAG](#RAG)
 
 
 # Typical LLMs
