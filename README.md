@@ -40,6 +40,10 @@ This project is dedicated to curating, organizing, and sharing the latest resear
 - **summary/reason to read**: [最佳开源coding模型](https://www.xiaohongshu.com/explore/667a8fbe000000001e013a8a?xsec_token=ABxBQz-sXlkOedu_Dk8-8Eieh9bO6zttFzVXEEtj9iznw=&xsec_source=pc_user)
 # Surveys
 # Data
+## Synthetic Data Generation
+- **Paper**:[On LLMs-Driven Synthetic Data Generation, Curation,and Evaluation: A Survey](https://arxiv.org/pdf/2406.15126v1)
+- **year**:2024/06
+-  **summary/reason to read**: [基于LLMs驱动的合成数据生成与管理综述](https://www.xiaohongshu.com/explore/667bbb7a000000001f0070ae)
 # Pretrain Method
 ## system
 ### DeepSpeed ZeRO
