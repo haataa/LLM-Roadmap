@@ -146,6 +146,7 @@ This project is dedicated to curating, organizing, and sharing the latest resear
 ## LongLLM vs RAG
 - **Paper**:[Can Long-Context Language Models Subsume Retrieval, RAG, SQL, and More?](https://arxiv.org/pdf/2406.13121)
 - **year**:2024/06
+- **summary/reason to read**: [LongLLM可媲美最先进的检索和RAG系统](https://www.xiaohongshu.com/explore/66792eb1000000001c024767)
 ## LongRAG
 - **Paper**:[LongRAG: Enhancing Retrieval-Augmented Generation with Long-context LLMs](https://arxiv.org/pdf/2406.15319)
 - **year**:2024/06
