@@ -36,6 +36,7 @@ This project is dedicated to curating, organizing, and sharing the latest resear
 ## DeepSeek-Coder-v2
 - **Paper**:[DeepSeek-Coder-V2: Breaking the Barrier of Closed-Source Models in Code Intelligence](https://arxiv.org/pdf/2406.11931)
 - **year**:2024/06
+- **summary/reason to read**: [最佳开源coding模型](https://www.xiaohongshu.com/explore/667a8fbe000000001e013a8a?xsec_token=ABxBQz-sXlkOedu_Dk8-8Eieh9bO6zttFzVXEEtj9iznw=&xsec_source=pc_user)
 # Surveys
 # Pretrain Method
 ## system
