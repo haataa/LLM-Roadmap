@@ -3,6 +3,7 @@ This project is dedicated to curating, organizing, and sharing the latest resear
 
 # Contents
 - [Typical LLMs](#Typical-LLMs)
+- [Data](#Data)
 - [Pretrain Method](#Pretrain-Method)
 - [Instruction Finetune](#Instruction-Finetune)
 - [Prompt Engineer](#Prompt-Engineer)
@@ -38,6 +39,7 @@ This project is dedicated to curating, organizing, and sharing the latest resear
 - **year**:2024/06
 - **summary/reason to read**: [最佳开源coding模型](https://www.xiaohongshu.com/explore/667a8fbe000000001e013a8a?xsec_token=ABxBQz-sXlkOedu_Dk8-8Eieh9bO6zttFzVXEEtj9iznw=&xsec_source=pc_user)
 # Surveys
+# Data
 # Pretrain Method
 ## system
 ### DeepSpeed ZeRO
