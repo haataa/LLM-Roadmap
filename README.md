@@ -149,6 +149,9 @@ This project is dedicated to curating, organizing, and sharing the latest resear
 - **Paper**:[Large Language Model based Multi-Agents: A Survey of Progress and Challenges](https://arxiv.org/pdf/2402.01680v1)
  - **year**:2024/02
 # RAG
+## GraphRAG
+- **Paper**:[From Local to Global: A Graph RAG Approach to Query-Focused Summarization](https://arxiv.org/pdf/2404.16130)
+- **year**:2024/04
 ## LongLLM vs RAG
 - **Paper**:[Can Long-Context Language Models Subsume Retrieval, RAG, SQL, and More?](https://arxiv.org/pdf/2406.13121)
 - **year**:2024/06
@@ -157,4 +160,5 @@ This project is dedicated to curating, organizing, and sharing the latest resear
 - **Paper**:[LongRAG: Enhancing Retrieval-Augmented Generation with Long-context LLMs](https://arxiv.org/pdf/2406.15319)
 - **year**:2024/06
 - **summary/reason to read**: [充分利用长上下文的RAG系统](https://www.xiaohongshu.com/explore/66826707000000001f004b97)
+
 # Domain Usage
