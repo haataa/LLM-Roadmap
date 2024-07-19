@@ -38,6 +38,10 @@ This project is dedicated to curating, organizing, and sharing the latest resear
 - **Paper**:[DeepSeek-Coder-V2: Breaking the Barrier of Closed-Source Models in Code Intelligence](https://arxiv.org/pdf/2406.11931)
 - **year**:2024/06
 - **summary/reason to read**: [最佳开源coding模型](https://www.xiaohongshu.com/explore/667a8fbe000000001e013a8a?xsec_token=ABxBQz-sXlkOedu_Dk8-8Eieh9bO6zttFzVXEEtj9iznw=&xsec_source=pc_user)
+## qwen2
+- **Paper**:[Qwen2 Technical Report](https://arxiv.org/pdf/2407.10671)
+- **year**:2024/07
+- **summary/reason to read**: [qwen2数据策略解读](https://www.xiaohongshu.com/explore/669788970000000025000915)
 # Surveys
 # Data
 ## Synthetic Data Generation
