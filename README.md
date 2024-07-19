@@ -156,6 +156,7 @@ This project is dedicated to curating, organizing, and sharing the latest resear
 ## GraphRAG
 - **Paper**:[From Local to Global: A Graph RAG Approach to Query-Focused Summarization](https://arxiv.org/pdf/2404.16130)
 - **year**:2024/04
+- **summary/reason to read**:[GraphRAG总结](https://www.xiaohongshu.com/explore/66850b4e000000001f007db2)
 ## LongLLM vs RAG
 - **Paper**:[Can Long-Context Language Models Subsume Retrieval, RAG, SQL, and More?](https://arxiv.org/pdf/2406.13121)
 - **year**:2024/06
