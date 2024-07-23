@@ -124,6 +124,7 @@ This project is dedicated to curating, organizing, and sharing the latest resear
 ## Quantization
 ### 基础知识
 - **blog**:[目前针对大模型进行量化的方法有哪些？](https://www.zhihu.com/question/627484732/answer/3261671478)
+- **blog**:[A Visual Guide to Quantization](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-quantization)
 ### Quantization-Aware Fine-tuning(QAF)
 #### QLORA
 - **Paper**:[QLORA: Efficient Finetuning of Quantized LLMs](https://arxiv.org/pdf/2305.14314.pdf)
